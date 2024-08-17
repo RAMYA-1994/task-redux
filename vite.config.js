@@ -1,5 +1,4 @@
-MohanKumar G
-10:03 AM
+
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
@@ -13,4 +12,3 @@ export default defineConfig({
     outDir: 'build', // Change this to 'build' to match Vercel's expectation
   },
 });
-mcf-mjxh-gud
